@@ -1,0 +1,9 @@
+---
+# 1. Simple Key-Value Pairs (Scalars)
+project_name: "E-Commerce Platform"
+version: 1.2
+is_active: true
+build_number: 405
+null_value: null
+
+
